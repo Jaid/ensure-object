@@ -14,7 +14,7 @@ const isObject = value => {
  * @param {*} value The value that will be converted to an array
  * @param {string} key The key of the object entry that might be created on a new object
  * @example
- * import {ensureObject} from "ensure-object"
+ * import ensureObject from "ensure-object"
  * ensureObject("abc", "importantKey")
  * // { importantKey: "abc" }
  * @returns {Object<string, *>} An object
