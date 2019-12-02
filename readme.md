@@ -3,6 +3,15 @@
 
 If given value is not an object, returns an object with one entry.
 
+## Installation
+<a href='https://npmjs.com/package/ensure-object'><img alt='npm logo' src='https://raw.githubusercontent.com/npm/logos/master/npm%20logo/npm-logo-red.png' height=16/></a>
+```bash
+npm install --save ensure-object@^
+```
+<a href='https://yarnpkg.com/package/ensure-object'><img alt='Yarn logo' src='https://raw.githubusercontent.com/yarnpkg/assets/master/yarn-kitten-full.png' height=24/></a>
+```bash
+yarn add ensure-object@^
+```
 
 
 ## Try it out
