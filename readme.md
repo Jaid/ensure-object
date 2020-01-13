@@ -1,9 +1,9 @@
 # ensure-object
 
 
-<a href="https://raw.githubusercontent.com/Jaid/ensure-object/master/license.txt"><img src="https://img.shields.io/github/license/Jaid/ensure-object?style=flat-square" alt="License"/></a>  
-<a href="https://actions-badge.atrox.dev/Jaid/ensure-object/goto"><img src="https://img.shields.io/endpoint.svg?style=flat-square&url=https%3A%2F%2Factions-badge.atrox.dev%2FJaid%2Fensure-object%2Fbadge" alt="Build status"/></a> <a href="https://github.com/Jaid/ensure-object/commits"><img src="https://img.shields.io/github/commits-since/Jaid/ensure-object/v1.0.1?style=flat-square&logo=github" alt="Commits since v1.0.1"/></a> <a href="https://github.com/Jaid/ensure-object/commits"><img src="https://img.shields.io/github/last-commit/Jaid/ensure-object?style=flat-square&logo=github" alt="Last commit"/></a> <a href="https://github.com/Jaid/ensure-object/issues"><img src="https://img.shields.io/github/issues/Jaid/ensure-object?style=flat-square&logo=github" alt="Issues"/></a>  
-<a href="https://npmjs.com/package/ensure-object"><img src="https://img.shields.io/npm/v/ensure-object?style=flat-square&logo=npm&label=latest%20version" alt="Latest version on npm"/></a> <a href="https://github.com/Jaid/ensure-object/network/dependents"><img src="https://img.shields.io/librariesio/dependents/npm/ensure-object?style=flat-square&logo=npm" alt="Dependents"/></a> <a href="https://npmjs.com/package/ensure-object"><img src="https://img.shields.io/npm/dm/ensure-object?style=flat-square&logo=npm" alt="Downloads"/></a>
+<a href="https://raw.githubusercontent.com/jaid/ensure-object/master/license.txt"><img src="https://img.shields.io/github/license/jaid/ensure-object?style=flat-square" alt="License"/></a> <a href="https://github.com/sponsors/jaid"><img src="https://img.shields.io/badge/<3-Sponsor-FF45F1?style=flat-square" alt="Sponsor ensure-object"/></a>
+<a href="https://actions-badge.atrox.dev/jaid/ensure-object/goto"><img src="https://img.shields.io/endpoint.svg?style=flat-square&url=https%3A%2F%2Factions-badge.atrox.dev%2Fjaid%2Fensure-object%2Fbadge" alt="Build status"/></a> <a href="https://github.com/jaid/ensure-object/commits"><img src="https://img.shields.io/github/commits-since/jaid/ensure-object/v1.0.1?style=flat-square&logo=github" alt="Commits since v1.0.1"/></a> <a href="https://github.com/jaid/ensure-object/commits"><img src="https://img.shields.io/github/last-commit/jaid/ensure-object?style=flat-square&logo=github" alt="Last commit"/></a> <a href="https://github.com/jaid/ensure-object/issues"><img src="https://img.shields.io/github/issues/jaid/ensure-object?style=flat-square&logo=github" alt="Issues"/></a>  
+<a href="https://npmjs.com/package/ensure-object"><img src="https://img.shields.io/npm/v/ensure-object?style=flat-square&logo=npm&label=latest%20version" alt="Latest version on npm"/></a> <a href="https://github.com/jaid/ensure-object/network/dependents"><img src="https://img.shields.io/librariesio/dependents/npm/ensure-object?style=flat-square&logo=npm" alt="Dependents"/></a> <a href="https://npmjs.com/package/ensure-object"><img src="https://img.shields.io/npm/dm/ensure-object?style=flat-square&logo=npm" alt="Downloads"/></a>
 
 **If given value is not an object, returns an object with one entry.**
 
@@ -41,14 +41,13 @@ yarn add ensure-object@^1.0.1
 
 
 
-
 ## Development
 
 
 
 Setting up:
 ```bash
-git clone git@github.com:Jaid/ensure-object.git
+git clone git@github.com:jaid/ensure-object.git
 cd ensure-object
 npm install
 ```
