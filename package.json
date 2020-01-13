@@ -32,5 +32,6 @@
     "prepareActionJest": "npm run build:prod"
   },
   "name": "ensure-object",
-  "description": "If given value is not an object, returns an object with one entry."
+  "description": "If given value is not an object, returns an object with one entry.",
+  "funding": "https://github.com/sponsors/jaid"
 }
