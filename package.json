@@ -38,5 +38,14 @@
     "url": "https://github.com/jaid/ensure-object"
   },
   "homepage": "https://github.com/Jaid/ensure-object",
-  "keywords": []
+  "keywords": [
+    "convert",
+    "ensure",
+    "ensure-object",
+    "lib",
+    "library",
+    "object",
+    "util",
+    "utility"
+  ]
 }
