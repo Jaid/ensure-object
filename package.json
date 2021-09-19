@@ -47,5 +47,6 @@
     "object",
     "util",
     "utility"
-  ]
+  ],
+  "type": "module"
 }
